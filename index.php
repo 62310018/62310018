@@ -11,7 +11,7 @@ echo "Hello supakorn <br>";
 echo "Hello nattapong naaa <br>";
 echo "Hello janejira kub <br>";
 echo "Hello Sokheng <br>";
-echo "Hello Sokheng <dr>";
+echo "Hello Suchapong <dr>";
 ?>
  
 </body>
