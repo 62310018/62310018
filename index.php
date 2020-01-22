@@ -7,7 +7,7 @@
 <h1>Team v.1</h1>
  
 <?php
-echo "Hello ver.1";
+echo "Hello supakorn <br>";
 ?>
  
 </body>
