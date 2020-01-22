@@ -4,10 +4,11 @@
 <html>
 <body>
  
-<h1>Team v.1</h1>
+<h1>Team v.2</h1>
  
 <?php
 echo "Hello supakorn <br>";
+echo "Hello nattapong naaa <br>";
 ?>
  
 </body>
